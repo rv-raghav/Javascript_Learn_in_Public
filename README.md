@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Javascript_Learn_in_Public
-=======
 # 📘 Javascript\_Learn\_in\_Public
 
 Welcome to Javascript\_Learn\_in\_Public – a personal journey where I learn and share JavaScript concepts, projects, and experiments in public, one step at a time.
