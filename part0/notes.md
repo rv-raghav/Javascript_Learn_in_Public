@@ -60,7 +60,7 @@
 
 6. **Machine Learning / Data Science**
 
-   * Libraries like **TensorFlow\.js**, **Brain.js**
+   * Libraries like **TensorFlow.js**, **Brain.js**
 
 7. **Internet of Things (IoT)**
 
