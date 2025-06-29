@@ -39,3 +39,6 @@ This is a personal learning space, but constructive feedback or pull requests fo
 * Suggest topics to cover
 * Report errors or improvements
 * Share learning resources
+
+# Follow this resource for some project practice on basic js 
+https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html
